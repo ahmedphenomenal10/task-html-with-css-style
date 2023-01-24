@@ -1,0 +1,60 @@
+.one{
+    color: blue;
+    background-color: chartreuse;
+}
+.two{
+    font-weight: 700px ;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+#two{
+    text-transform: uppercase;
+    border: 10x solid;
+}
+a{
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: darkorange;
+}
+p{
+    font-weight: 700px ;
+    font-size: xx-large;
+}
+h1{
+    color: red;
+    background-color: ghostwhite;
+}
+mark{
+    font-weight: 1000px ;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    font-weight: 700px ;
+    font-size: x-large;
+}
+ol{
+    font-weight: 700px ;
+    font-size: x-large;
+}
+body{
+    background-image:url('Screenshot_2023-01-24-17-12-58-316-edit_com.whatsapp.jpg') ;
+    width: 600px;
+    height: 1000px;
+}
+form{
+    width: 600px;
+    height: 300px;
+    background-size: 800px;
+}
+h3{
+    font-weight: 700px ;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: blue;
+    background-color: chartreuse;
+}
